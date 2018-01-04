@@ -1,1 +1,27 @@
-{ color: 'orange', words: [ 'happy' ] }
+{ color: 'orange', words: [ 'happy' ] }{ color: 'yellow', words: [ 'bored' ] }{ color: 'pink', words: [ 'sleepy' ] }
+
+{ color: 'yellow', words: [ 'happy' ] }{ color: 'green', words: [ 'earthy' ] }{ color: 'navy', words: [ 'AMERICAN' ] }
+
+{ color: 'red', words: [ 'sexy' ] }{ color: 'blue', words: [ 'loved' ] }{ color: 'blue', words: [ 'innocent' ] }
+
+{ color: 'green', words: [ 'healthy' ] }{ color: 'red', words: [ 'sex' ] }{ color: 'pink', words: [ 'baby' ] }
+
+{ color: 'red', words: [ 'null' ] }{ color: 'orange', words: [ 'child' ] }{ color: 'navy', words: [ 'dark' ] }
+
+{ color: 'green', words: [ 'veggie' ] }{ color: 'orange', words: [ 'happy' ] }{ color: 'red', words: [ 'dirty' ] }
+
+{ color: 'blue', words: [ 'sad' ] }{ color: 'navy', words: [ 'army' ] }{ color: 'blue', words: [ 'sadness' ] }
+
+{ color: 'orange', words: [ 'hope' ] }{ color: 'blue', words: [ 'sad' ] }{ color: 'red', words: [ 'hate' ] }
+
+{ color: 'pink', words: [ 'happy' ] }{ color: 'green', words: [ 'sustainable' ] }{ color: 'yellow', words: [ 'one' ] }
+
+{ color: 'orange', words: [ 'two' ] }{ color: 'red', words: [ 'three' ] }{ color: 'red', words: [ 'haha' ] }
+
+{ color: 'orange', words: [ 'null' ] }{ color: 'red', words: [ 'home' ] }{ color: 'orange', words: [ 'orange' ] } 
+
+{ color: 'purple', words: [ 'happy' ] }{ color: 'navy', words: [ 'night' ] }{ color: 'blue', words: [ 'democrat' ] } 
+
+{ color: 'red', words: [ 'republican' ] }{ color: 'green', words: [ 'greens' ] }{ color: 'green', words: [ 'null' ] } 
+
+{ color: 'yellow', words: [ 'morning' ] }{ color: 'yellow', words: [ 'happy' ] }{ color: 'pink', words: [ 'hey' ] }{ color: 'yellow', words: [ 'hey' ] }
